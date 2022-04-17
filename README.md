@@ -18,8 +18,10 @@
 
 ## 💁🏻‍♀️ 2019 한국품질경영학회 추계 학술제 학술세션(TQM)
 - 최종 발표 자료 ([link](https://github.com/hanakim120/kiosk-servqual-research/blob/main/%E1%84%92%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf))
+- 자료 ([link](https://github.com/hanakim120/kiosk-servqual-research/blob/main/%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%ED%92%88%EC%A7%88%EC%B8%A1%EC%A0%95%EB%8F%84%EA%B5%ACK-Servqual%EA%B0%9C%EB%B0%9C.pdf))
 - K-Servqual 연구 요약 
 <p  align="center">
+<img  src="./image/한국품질경영학회프로그램순서.jpeg"  width="40%"  align="middle"/>
 <img  src="./image/K-Servqual_요약.jpeg"  width="40%"  align="middle"/>
 </p>
 
@@ -131,45 +133,45 @@
 #### 3) K-Servqual의 향후 연구방향은 키오스크의 서비스 품질을 개선하기 위한 측정도구를 개발했지만, 이를 이용하여 본질적인 서비스 품질을 개선하지 못했기 때문에 개선 방안을 모색해보고 실제 키오스크에 적용하는 것이 목표이다.또한 Servqual 외에도 Kano와 IPA 설문을 통해 얻은 데이터를 분석해 무엇이 키오스크 서비스에 영향을 더 미치고 중요한지를 심층적으로 파악하는 것이 향후 목표이다.
 
 ## References
-[1] 두산백과, 키오스크http://www.doopedia.co.kr/search/encyber/new_totalSearch.jsp
-[2] 이은민,2016,”4차 산업혁명과 산업구조의 변화”,정보통신방송정책,Vol.28(15),p.1
-[3] 신지민, “동네 식당,편의점, 카페까지…사람 대신 기계가 일한다”,2019.06.29,http://www.hani.co.kr/arti/society/society_general/899810.html
-[4] 박민해, “터치 몇 번으로 주문을! 키오스크 전성시대”, 포항공대신문, 2019.03.29, http://times.postech.ac.kr/news/articleView.html?idxno=20773
-[5] 김용균, “무인화 추세를 앞당기는 키오스크”, 정보통신기술진흥센터, 2017.4.5
-[6] 이지운, “[씨줄날줄] 무인(無人)”, 서울신문, 2019.09.19, https://www.seoul.co.kr/news/newsView.php?id=20190919031011&wlog_tag3=naver
-[7] 오수연, 언택트 마케팅 바람, 마케팅 52(2), 2018.2, 60-64
-[8] 문다애, “[무인화시대 현황과 전망 上] 무인점포, 어디까지 왔나?”, 아시아타임즈, 2018.09.25 http://www.asiatime.co.kr/news/articleView.html?idxno=198916
-[9] 박진형, ‘“‘키오스크의 공습 上’경제 생태계가 바뀐다”, 시장경제신문, 2017.07.06 http://www.meconomynews.com/news/articleView.html?idxno=5714
-[10] 최종근, “입출금은 기본, 창구 업무까지 ‘척척’..은행권 ‘고기능 자동화기기’ 늘린다, 파이낸셜뉴스, 2019.07.31 http://www.fnnews.com/news/201907311815475318
-[11] 이균성, “삼성창원병원, IT 접목 안면인식 시스템 시범도입”, 의학신문, 2019.09.03 http://www.bosa.co.kr/news/articleView.html?idxno=2111715
-[12] 설경진, “[특징주]씨아이테크, 23조 키오스크 시장...최저임금 인상에 공급 확대 기대감 ↑”, 이투데이, 2018.07.18 http://www.etoday.co.kr/news/view/1642838
-[13] 양희진, 2012, 기술기반셀프서비스 편의성과 영향요인 및 기술기반셀프서비스 품질의 관계
-[14] 민병권, 박정용, 2010, 기술기반 셀프서비스 사용자 수용 요인에 관한 연구
-[15] 이인숙, 나영아, 윤혜현, 2013, 외식소비자의 지각된 기술기반 셀프서비스 특성이 만족 및 구매의도에 미치는 영향 연구: 온라인 메뉴주문 시스템을 중심으로
-[16] 맹범기, 박경수, 오승원, 2017, 기술기반 셀프서비스 사용태도 및 사용의도에 대한 기술준비도, 사용자 특성, 상황적 요인의 조절효과
-[17] 신찬호, 이현주, 2012, 항공사의 Self-Service Technology(SST)품질이 고객만족과 행동의도에 미치는 영향 연구
-[18] 김인혜, 2010, TBSS의 특성과 개인 특성이 사용의도에 미치는 영향
-[19] 김영균, 2009, 고객의 셀프서비스 테크놀로지로의 전환요인에 대한 실증연구
-[20] 최병돈, 이준교, 2011, 셀프서비스테크놀로지에서 고객사전준비도가 서비스품질과 고객가치에 미치는 영향: 온라인 쇼핑을 중심으로
-[21] 한상린, 박수민, 2009, 기술준비도가 Self-Service Technology의 사용의도에 미치는 영향
-[22] 박진형, 2019, 키오스크의 특성이 지각된 가치, 만족 및 행동의도에 미치는 영향: 외식업체 키오스크 이용자를 중심으로
-[23] 고위, 2016, 중국에서의 e-SERVQUAL에 근거한 모바일 어플리케이션의 사용의도에 관한 연구
-[24] 김승욱, 2006, 고객관계관리(CRM)측면에서 전자정부 e-서비스의 품질평가
-[25] 이문규, 2002, E-SERVQUAL - 인터넷 서비스 품질의 소비자 평가 측정 도구
-[26] 최민섭, 2005, 인터넷 부동산 서비스 품질척도(Re-SERVQUAL)의 개발 및 상호 인과관계 분석에 관한 연구 - 기술수용모델(TAM)을 중심으로
-[27] 최철재, 2006, 농산물 전자상거래 서비스품질에 관한 연구
-[28] 주희엽, 2003, 전자정부 e-service의 수용도 및 품질 만족도평가
-[29] 유민영, 2014, 지역적 특성을 고려한 키오스크 서비스의 사용성 평가_강남역 미디어폴과 인사동의 키오스크를 중심으로
-[30] 최환석, 2009, 셀프서비스 체크인 키오스크 사용의도_기술수용 모델을 중심으로
-[31] 김고은, 2017, 외식서비스의 SST(Self-Service Technology)품질이 불평행동과 전환의도에 미치는 영향: 키오스크를 중심으로
-[32] 이진명, 2019, 지각된 위험과 소비자 특성이 외식소비자의 기술기반 셀프서비스(TBSS) 지속이용의도에 미치는 영향
-[33] John Soltesz, Renee Keller, 2001, Self-service kiosk with biometric verification and/or registration capability
-[34] Dabholkar, 1996, Consumer evaluations of new technology-based self-service options: An investigation of alternative models of service quality
-[35] Gwo-Guang Lee, 2005, Customer perceptions of e-service quality in online shopping
-[36] Zeithaml, Parasuraman & Malhotra., 2000, “A Conceptual Framework for Understanding E-Service Quality: Implication for Future Research and Managerial Practice”, REPORT, No.0-115, Marketing Science Institute, Cambridge, M, pp.16. 
-[37] Zeithaml, V., Parasuraman, A. and Mlhotra, A., 2002, Service Quality Delivery Through Web Sites: A Critical Review of Extant Knowledge. Journal of the Academy of Marketing Science
-[38] Matthew L. Meuter, Amy L. Ostrom, Robert I. Roundtree, & Mary Jo Bitner, 2000, Self-Service Technologies: Understanding Customer Satisfaction with Technology-Based Service Encounters
-[39] Lin, Hsieh, 2011, Assessing the Self-service Technology Encounters: Development and Validation of SSTQUAL Scale
+- [1] 두산백과, 키오스크http://www.doopedia.co.kr/search/encyber/new_totalSearch.jsp
+- [2] 이은민,2016,”4차 산업혁명과 산업구조의 변화”,정보통신방송정책,Vol.28(15),p.1
+- [3] 신지민, “동네 식당,편의점, 카페까지…사람 대신 기계가 일한다”,2019.06.29,http://www.hani.co.kr/arti/society/society_general/899810.html
+- [4] 박민해, “터치 몇 번으로 주문을! 키오스크 전성시대”, 포항공대신문, 2019.03.29, http://times.postech.ac.kr/news/articleView.html?idxno=20773
+- [5] 김용균, “무인화 추세를 앞당기는 키오스크”, 정보통신기술진흥센터, 2017.4.5
+- [6] 이지운, “[씨줄날줄] 무인(無人)”, 서울신문, 2019.09.19, https://www.seoul.co.kr/news/newsView.php?id=20190919031011&wlog_tag3=naver
+- [7] 오수연, 언택트 마케팅 바람, 마케팅 52(2), 2018.2, 60-64
+- [8] 문다애, “[무인화시대 현황과 전망 上] 무인점포, 어디까지 왔나?”, 아시아타임즈, 2018.09.25 http://www.asiatime.co.kr/news/articleView.html?idxno=198916
+- [9] 박진형, ‘“‘키오스크의 공습 上’경제 생태계가 바뀐다”, 시장경제신문, 2017.07.06 http://www.meconomynews.com/news/articleView.html?idxno=5714
+- [10] 최종근, “입출금은 기본, 창구 업무까지 ‘척척’..은행권 ‘고기능 자동화기기’ 늘린다, 파이낸셜뉴스, 2019.07.31 http://www.fnnews.com/news/201907311815475318
+- [11] 이균성, “삼성창원병원, IT 접목 안면인식 시스템 시범도입”, 의학신문, 2019.09.03 http://www.bosa.co.kr/news/articleView.html?idxno=2111715
+- [12] 설경진, “[특징주]씨아이테크, 23조 키오스크 시장...최저임금 인상에 공급 확대 기대감 ↑”, 이투데이, 2018.07.18 http://www.etoday.co.kr/news/view/1642838
+- [13] 양희진, 2012, 기술기반셀프서비스 편의성과 영향요인 및 기술기반셀프서비스 품질의 관계
+- [14] 민병권, 박정용, 2010, 기술기반 셀프서비스 사용자 수용 요인에 관한 연구
+- [15] 이인숙, 나영아, 윤혜현, 2013, 외식소비자의 지각된 기술기반 셀프서비스 특성이 만족 및 구매의도에 미치는 영향 연구: 온라인 메뉴주문 시스템을 중심으로
+- [16] 맹범기, 박경수, 오승원, 2017, 기술기반 셀프서비스 사용태도 및 사용의도에 대한 기술준비도, 사용자 특성, 상황적 요인의 조절효과
+- [17] 신찬호, 이현주, 2012, 항공사의 Self-Service Technology(SST)품질이 고객만족과 행동의도에 미치는 영향 연구
+- [18] 김인혜, 2010, TBSS의 특성과 개인 특성이 사용의도에 미치는 영향
+- [19] 김영균, 2009, 고객의 셀프서비스 테크놀로지로의 전환요인에 대한 실증연구
+- [20] 최병돈, 이준교, 2011, 셀프서비스테크놀로지에서 고객사전준비도가 서비스품질과 고객가치에 미치는 영향: 온라인 쇼핑을 중심으로
+- [21] 한상린, 박수민, 2009, 기술준비도가 Self-Service Technology의 사용의도에 미치는 영향
+- [22] 박진형, 2019, 키오스크의 특성이 지각된 가치, 만족 및 행동의도에 미치는 영향: 외식업체 키오스크 이용자를 중심으로
+- [23] 고위, 2016, 중국에서의 e-SERVQUAL에 근거한 모바일 어플리케이션의 사용의도에 관한 연구
+- [24] 김승욱, 2006, 고객관계관리(CRM)측면에서 전자정부 e-서비스의 품질평가
+- [25] 이문규, 2002, E-SERVQUAL - 인터넷 서비스 품질의 소비자 평가 측정 도구
+- [26] 최민섭, 2005, 인터넷 부동산 서비스 품질척도(Re-SERVQUAL)의 개발 및 상호 인과관계 분석에 관한 연구 - 기술수용모델(TAM)을 중심으로
+- [27] 최철재, 2006, 농산물 전자상거래 서비스품질에 관한 연구
+- [28] 주희엽, 2003, 전자정부 e-service의 수용도 및 품질 만족도평가
+- [29] 유민영, 2014, 지역적 특성을 고려한 키오스크 서비스의 사용성 평가_강남역 미디어폴과 인사동의 키오스크를 중심으로
+- [30] 최환석, 2009, 셀프서비스 체크인 키오스크 사용의도_기술수용 모델을 중심으로
+- [31] 김고은, 2017, 외식서비스의 SST(Self-Service Technology)품질이 불평행동과 전환의도에 미치는 영향: 키오스크를 중심으로
+- [32] 이진명, 2019, 지각된 위험과 소비자 특성이 외식소비자의 기술기반 셀프서비스(TBSS) 지속이용의도에 미치는 영향
+- [33] John Soltesz, Renee Keller, 2001, Self-service kiosk with biometric verification and/or registration capability
+- [34] Dabholkar, 1996, Consumer evaluations of new technology-based self-service options: An investigation of alternative models of service quality
+- [35] Gwo-Guang Lee, 2005, Customer perceptions of e-service quality in online shopping
+- [36] Zeithaml, Parasuraman & Malhotra., 2000, “A Conceptual Framework for Understanding E-Service Quality: Implication for Future Research and Managerial Practice”, REPORT, No.0-115, Marketing Science Institute, Cambridge, M, pp.16. 
+- [37] Zeithaml, V., Parasuraman, A. and Mlhotra, A., 2002, Service Quality Delivery Through Web Sites: A Critical Review of Extant Knowledge. Journal of the Academy of Marketing Science
+- [38] Matthew L. Meuter, Amy L. Ostrom, Robert I. Roundtree, & Mary Jo Bitner, 2000, Self-Service Technologies: Understanding Customer Satisfaction with Technology-Based Service Encounters
+- [39] Lin, Hsieh, 2011, Assessing the Self-service Technology Encounters: Development and Validation of SSTQUAL Scale
 
 ## License
 
