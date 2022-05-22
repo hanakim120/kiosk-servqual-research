@@ -17,7 +17,7 @@
 - 자세한 내용은 아래 최종 발표 자료를 참고해주세요
 
 ## 💁🏻‍♀️ 2019 한국품질경영학회 추계 학술제 학술세션(TQM)
-- 최종 발표 자료 ([link](https://github.com/hanakim120/kiosk-servqual-research/blob/main/%E1%84%92%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf))
+- 최종 발표 자료 ([link](https://github.com/hanakim120/kiosk-servqual-research/blob/main/%E1%84%92%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AC%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)
 - 자료 ([link](https://github.com/hanakim120/kiosk-servqual-research/blob/main/%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC%ED%92%88%EC%A7%88%EC%B8%A1%EC%A0%95%EB%8F%84%EA%B5%ACK-Servqual%EA%B0%9C%EB%B0%9C.pdf))
 - K-Servqual 연구 요약 
 <p  align="center">
